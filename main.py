@@ -24,6 +24,32 @@ def BOGOsort(list):
             else:
                 sorted = True
     return list
-list = [ 2 ,1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 ,14 ,15 ,16 ,17 ,18 ,19, 20 ,21, 22, 23, 24, 25]
+
+# Ask user for list
+list = []
+type = int(input("Type (1: element/line, 2: line): "))
+if type == 1:
+    while True:
+        x = input("#: ")
+        if x == "done" or x == "exit":
+            break
+        else:
+            try:
+                list.append(int(x))
+            except:
+                print("Invalid input, try again")
+else: 
+    while True:
+        x = input("line: ")
+        try:
+            if "," in x:
+                list = [int(y) for y in x.split(", ")]
+            else:
+                list = [int(y) for y in x.split(" ")]
+            break
+        except:
+            print("Invalid input, try again")
+
+print("")
 print("start sorting...")
 print(BOGOsort(list))
