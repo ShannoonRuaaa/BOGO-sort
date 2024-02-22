@@ -1,3 +1,3 @@
 # BOGO-sort
-Bogo sort in python
+Bogo sort in as many language as possible!!! 
 ENJOY!
