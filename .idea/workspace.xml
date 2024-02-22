@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09509a46-acc7-4c2c-9ee2-f27295fec113" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="09509a46-acc7-4c2c-9ee2-f27295fec113" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/home/shannon/git/BOGO-sort/Java",
+    "last_opened_file_path": "/home/shannon/git/BOGO-sort/Python",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,7 +48,7 @@
       <recent name="$PROJECT_DIR$/Python" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Unnamed">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="jdk.internal.org.objectweb.asm.util.CheckClassAdapter" />
       <module name="Bogo_Sort" />
@@ -84,14 +80,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Python.main" />
     </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-76dd8dae" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -105,6 +100,7 @@
       <updated>1702267016742</updated>
       <workItem from="1702267024334" duration="1428000" />
       <workItem from="1702268467435" duration="402000" />
+      <workItem from="1708636933664" duration="15000" />
     </task>
     <servers />
   </component>

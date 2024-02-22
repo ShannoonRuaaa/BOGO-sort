@@ -1,6 +1,5 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
-
+import java.util.Scanner;
 public class main {
 public static int[] BOGO(int[] arr) {
     int[] temp = new int[arr.length];
@@ -25,8 +24,35 @@ public static int[] BOGO(int[] arr) {
         }
         return true;
 }
+
+
+    public static int nxtInt(Scanner console) {
+        int nxtInt = 0;
+        while (true) {
+            try {
+                nxtInt = console.nextInt();
+                break; // If input is valid, exit the loop
+            } catch (Exception e) {
+                System.out.print("Invalid input. Enter a number!");
+                console.nextLine(); // Consume the invalid input
+            }
+        }
+        return nxtInt;
+    }
+
     public static void main(String[] args) {
-        int[] arr = new int[]{1, 2, 3, 6, 5};
+        Scanner scanner= new Scanner(System.in);
+
+        System.out.println("Type in the number of elements in the array: ");
+        int len = nxtInt(scanner);
+        int[] arr = new int[len];
+
+        for (int i = 0; i < len; i++) {
+            System.out.print("Enter a number: ");
+            arr[i] = nxtInt(scanner);
+        }
+        System.out.println("Sorting....");
         System.out.println(Arrays.toString(BOGO(arr)));
     }
+
 }
