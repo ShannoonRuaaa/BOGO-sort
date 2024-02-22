@@ -1,0 +1,19 @@
+Index: Java/main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import random;\nimport java.util.Arrays;\npublic class main {\n    public double[] BOGO(double[] arr){\n        \n    }\n\n\n    public static main(String[]args){\n\n    }\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Java/main.java b/Java/main.java
+--- a/Java/main.java	(revision 2cb834cb7e6f13ff06929cb9fd98fe1d8e486a76)
++++ b/Java/main.java	(date 1708635821582)
+@@ -2,7 +2,7 @@
+ import java.util.Arrays;
+ public class main {
+     public double[] BOGO(double[] arr){
+-        
++
+     }
+ 
+ 

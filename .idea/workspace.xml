@@ -15,6 +15,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="utlz4d0j" />
@@ -33,28 +37,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/home/lnjng/Documents/Programming/GitHub/BOGO-sort/rs/Cargo.toml",
+
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
-    "org.rust.hideNoCargoProjectNotifications/home/lnjng/Documents/Programming/GitHub/BOGO-sort/main.rs": "true",
+
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/rs" />
-    </key>
-  </component>
-  <component name="RunManager">
+
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Bogo_Sort" />
       <option name="ENV_FILES" value="" />
@@ -78,6 +79,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+    </list>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
@@ -85,7 +89,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -99,7 +103,7 @@
       <updated>1702267016742</updated>
       <workItem from="1702267024334" duration="1428000" />
       <workItem from="1702268467435" duration="402000" />
-      <workItem from="1708635571226" duration="958000" />
+
     </task>
     <task id="LOCAL-00001" summary="rust version">
       <option name="closed" value="true" />
@@ -131,7 +135,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+
                       </list>
                     </value>
                   </entry>
@@ -143,10 +147,7 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="rust version" />
-    <option name="LAST_COMMIT_MESSAGE" value="rust version" />
-  </component>
+
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Bogo_Sort$main.coverage" NAME="main Coverage Results" MODIFIED="1702269562260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
